@@ -33,7 +33,7 @@ public class File4 {
 	}
 
 	public static boolean login(String username, String password) {
-		boolean value = Math.random() > 0.5;
+		boolean value = Math.random() < 0.5;
 		return value;
 
 	}
