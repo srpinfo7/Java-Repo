@@ -1,6 +1,6 @@
 package JAVA_REPO4;
 
-//Inverted Pyramid
+//Inverted Pyramid- Just revert of straight
 public class File8 {
 	public static void main(String[] args) {
 		int row = 5;
