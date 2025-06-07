@@ -10,7 +10,7 @@ public class file6 {
 	public static void main(String[] args) {
 
 		String[] elements = { "Login", "Dasboard", "Checkout", "Logout" };
-		String searchElement = "CHECKOU";
+		String searchElement = "CHECKOUt";
 		boolean isPresent = false;
 
 		for (String element : elements) {

@@ -15,6 +15,7 @@ public class file16 {
 		fruits.add("Strawberry");
 		
 		System.out.println(fruits);
+		//System.out.println(fruits.removeFirst());
 		System.out.println(fruits.remove("Apple"));
 		System.out.println(fruits);
 		

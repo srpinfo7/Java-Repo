@@ -16,10 +16,9 @@ public class file5 {
 		fruits.put("S","Strawberry");
 		
 		//There is not specific order
-		for(String key:fruits.keySet())
-		{
-			System.out.println("Key: "+key+ " Value: "+fruits.get(key));	
-		}	
+		for(String key:fruits.keySet())	{
+			System.out.println("Key : "+key+", Value : "+fruits.get(key));
+		}
 		
 	}
 

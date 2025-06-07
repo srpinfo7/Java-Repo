@@ -4,8 +4,7 @@ package JAVA_REPO;
 
 public class File6 {
 
-	int num = 9;
-	int fact = 1;
+
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
