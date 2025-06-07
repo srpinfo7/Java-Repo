@@ -3,6 +3,7 @@ package JAVA_REPO3;
 
 //Create & Print Elements
 import java.util.HashSet;
+import java.util.Iterator;
 
 public class file3 {
 	
@@ -18,6 +19,12 @@ public class file3 {
 		//There is not specific order
 		
 		System.out.println("HashSet: "+fruits);		
+		
+		Iterator<String> it=fruits.iterator();
+		while(it.hasNext())
+		{
+			System.out.println(it.next());
+		}
 		
 	}
 

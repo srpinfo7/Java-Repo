@@ -1,6 +1,5 @@
 package JAVA_REPO5;
 
-import javax.lang.model.util.Elements.Origin;
 
 //Palindrome Checker (String or Number)
 //Initialize empty string for reverse
@@ -10,7 +9,7 @@ import javax.lang.model.util.Elements.Origin;
 
 public class File1 {
 
-	static String original = "Sameer";
+	static String original = "HelleH";
 	static String reverse = "";
 
 	public static void main(String[] args) {
